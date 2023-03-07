@@ -1,0 +1,18 @@
+
+   [
+      {
+          "id": 1,
+          "category": "skateboard",
+          "name": "DGK Ninja Turtle"
+      },
+      {
+          "id": 2,
+          "category": "skateboard",
+          "name": "Shove Skull"
+      },
+      {
+          "id": 3,
+          "category": "skateboard",
+          "name": "Santa Cruz Hulk"
+      }
+    ]
